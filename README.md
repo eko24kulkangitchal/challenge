@@ -8,9 +8,9 @@ More information available at: https://ctf.ekoparty.org/
 
 You're after a Flag which is stored as encrypted pieces of a puzzle in this repository.
 
-To decrypt each piece and recover the Flag you'll need to look at the repository as well as its contributors.
+To decrypt each piece and recover the Flag you'll need to look at the repository as well as its contributors and their activity.
 
-The Flag will reveal itself only once you have _decrypted_ all pieces and _put them in the right order_.
+The Flag will "reveal" itself only once you have _decrypted_ all pieces and _put them in the right order_.
 
 You may want to look in non-trivial places.
 
