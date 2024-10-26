@@ -1,6 +1,6 @@
 # Ekoparty 2024 CTF Challenge by Kulkan
 
-Welcome to one of our two (2) challenges for this year for Ekoparty.
+Welcome to one of our challenges for this year for Ekoparty.
 
 More information available at: https://ctf.ekoparty.org/
 
