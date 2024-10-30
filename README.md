@@ -18,6 +18,10 @@ You may want to look in non-trivial places.
 
 If you get stuck, you may want to explore using [Gitxray](https://github.com/kulkansecurity/gitxray); it can certainly help.
 
+### No interaction with the parent ippsample repository is needed
+
+This repository is a fork of another repository which is OUT OF SCOPE - Please, do not create PRs or any noise on that parent repository.
+
 ## About Ekoparty
 
 [Ekoparty Security Conference](https://www.ekoparty.org/) is one of the most prominent cybersecurity events in Latin America, held annually in Buenos Aires, Argentina. Known for its informal and vibrant atmosphere, Ekoparty attracts a diverse audience ranging from security professionals, researchers, and hackers to students and tech enthusiasts. The conference offers a platform for sharing the latest advancements, discoveries, and trends in offensive and defensive security, making it a hub for both seasoned professionals and newcomers to the field.
